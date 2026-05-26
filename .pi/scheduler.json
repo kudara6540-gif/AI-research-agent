@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "tasks": [
+    {
+      "id": "m058vy5t",
+      "prompt": "Check alphaXiv and arXiv for new research papers on the baby universe theory in quantum cosmology, specifically looking for new validations, mathematical sophistication, or observational signals. Update the baseline findings at `outputs/baby-universe-quantum-cosmology-baseline.md` based on what you find.",
+      "kind": "recurring",
+      "enabled": true,
+      "createdAt": 1779781678310,
+      "nextRunAt": 1780386879046,
+      "intervalMs": 604800000,
+      "expiresAt": 1780040878310,
+      "jitterMs": 400736,
+      "runCount": 0,
+      "pending": false
+    }
+  ]
+}
