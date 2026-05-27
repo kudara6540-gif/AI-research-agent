@@ -13,6 +13,19 @@
       "jitterMs": 400736,
       "runCount": 0,
       "pending": false
+    },
+    {
+      "id": "ivr0awt0",
+      "prompt": "Scan arXiv (quant-ph, gr-qc) and recent journals for new papers on the Many-Worlds Interpretation (Everettian mechanics) in quantum mechanics and quantum cosmology. Focus on theoretical advancements in probability, decoherence, and cosmic applications. Update the outputs/many-worlds-quantum-cosmology-baseline.md file with the new findings.",
+      "kind": "recurring",
+      "enabled": true,
+      "createdAt": 1779865493869,
+      "nextRunAt": 1780470699357,
+      "intervalMs": 604800000,
+      "expiresAt": 1780124693869,
+      "jitterMs": 405488,
+      "runCount": 0,
+      "pending": false
     }
   ]
 }
