@@ -26,6 +26,19 @@
       "jitterMs": 353534,
       "runCount": 0,
       "pending": false
+    },
+    {
+      "id": "iha06m1g",
+      "prompt": "Check for new papers and advancements on Hugh Everett's Many-Worlds Interpretation and Relative State Formulation in quantum mechanics and cosmology. Analyze recent arXiv preprints and journal articles, and update the baseline report (outputs/everett-many-worlds-quantum-baseline.md) with new findings.",
+      "kind": "recurring",
+      "enabled": true,
+      "createdAt": 1780473435387,
+      "nextRunAt": 1781078620069,
+      "intervalMs": 604800000,
+      "expiresAt": 1780732635387,
+      "jitterMs": 384682,
+      "runCount": 0,
+      "pending": false
     }
   ]
 }
