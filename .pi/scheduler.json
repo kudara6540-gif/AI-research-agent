@@ -13,6 +13,19 @@
       "jitterMs": 29343,
       "runCount": 0,
       "pending": false
+    },
+    {
+      "id": "kyqmw5k3",
+      "prompt": "Perform a research sweep for new papers and articles enhancing the sophistication and validity of the Many-Worlds Interpretation (MWI) in quantum mechanics and quantum cosmology. Translate the new findings into Korean and append them as a new dated update section in outputs/many-worlds-validity-baseline.md. Focus on derivations of the Born rule, Wheeler-DeWitt equation applications, and macroscopic superposition proposals.",
+      "kind": "recurring",
+      "enabled": true,
+      "createdAt": 1780472830527,
+      "nextRunAt": 1781077984061,
+      "intervalMs": 604800000,
+      "expiresAt": 1780732030527,
+      "jitterMs": 353534,
+      "runCount": 0,
+      "pending": false
     }
   ]
 }
