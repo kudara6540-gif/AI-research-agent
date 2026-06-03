@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "tasks": [
+    {
+      "id": "ueq4gmzr",
+      "prompt": "Perform a weekly research sweep for new papers and developments regarding the \"baby universe\" theory in quantum cosmology. Check for new publications on arXiv (gr-qc, hep-th), focus on validity, sophistication, third quantization, and observational propositions. Compare findings against the baseline at 'outputs/baby-universe-quantum-cosmology-baseline.md'. Write a brief update report in Korean if any meaningful changes or highly relevant papers are found.",
+      "kind": "recurring",
+      "enabled": true,
+      "createdAt": 1780472549680,
+      "nextRunAt": 1781077379023,
+      "intervalMs": 604800000,
+      "expiresAt": 1780731749680,
+      "jitterMs": 29343,
+      "runCount": 0,
+      "pending": false
+    }
+  ]
+}
