@@ -21,6 +21,11 @@
 - **Can Baby Universe Absorption Explain Dark Energy?** (arXiv:2408.13306)
   - 우리 우주가 지속적으로 아기 우주들을 흡수하거나 병합함으로써 가속 팽창(팬텀 방정식 상태와 유사한 암흑 에너지 효과)을 일으킨다는 가설을 검증합니다. 이는 아기 우주 이론을 추상적 수학을 넘어 관측 가능한 우주론적 현상과 연결하려는 중요한 시도입니다.
 
+## [2026-06-12] 최근 업데이트 (Recent Update)
+최근 연구(arXiv:2602.05939 등)에서는 닫힌 우주들의 단일 상태(one-state) 성질에 대해 하틀-호킹(Hartle-Hawking) 상태 및 드지터(de Sitter) 공간의 관찰자를 위한 양자역학 관점에서 물리적 의미를 재검토했습니다.
+- **"It from Bit": The Hartle-Hawking state and quantum mechanics for de Sitter observers** (arXiv:2602.05939)
+  - 외부에서 바라본 닫힌 우주들의 공간인 '아기 우주 힐베르트 공간(baby-universe Hilbert space)'과 단일 드지터 우주 내부의 관찰자를 지배하는 벌크(bulk) 힐베르트 공간을 명확히 구분해야 함을 강조했습니다. 아기 우주 힐베르트 공간 자체는 가환 연산자 대수학을 가지는 고전적 확률론의 수학적 재포장일 뿐이며, 내부 관찰자의 양자 역학은 이 고전적 통계로부터 창발(emerge)한다는 존 휠러(John Wheeler)의 "It from Bit" 개념의 구체적 실현을 보여주었습니다.
+
 ## 향후 모니터링 주안점 (Next Steps for Monitoring)
 - AdS/CFT 대응성 내에서 아기 우주 퍼즐의 수학적 해결 진행 상황.
 - 우주 가속 팽창(암흑 에너지)과 아기 우주 병합 가설 간의 교차 검증 논문.
@@ -33,3 +38,4 @@
 - https://arxiv.org/abs/2512.02098
 - https://arxiv.org/abs/2604.06118
 - https://arxiv.org/abs/2408.13306
+- https://arxiv.org/abs/2602.05939
