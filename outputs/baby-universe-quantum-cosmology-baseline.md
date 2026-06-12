@@ -22,9 +22,16 @@
   - 우리 우주가 지속적으로 아기 우주들을 흡수하거나 병합함으로써 가속 팽창(팬텀 방정식 상태와 유사한 암흑 에너지 효과)을 일으킨다는 가설을 검증합니다. 이는 아기 우주 이론을 추상적 수학을 넘어 관측 가능한 우주론적 현상과 연결하려는 중요한 시도입니다.
 
 ## [2026-06-12] 최근 업데이트 (Recent Update)
-최근 연구(arXiv:2602.05939 등)에서는 닫힌 우주들의 단일 상태(one-state) 성질에 대해 하틀-호킹(Hartle-Hawking) 상태 및 드지터(de Sitter) 공간의 관찰자를 위한 양자역학 관점에서 물리적 의미를 재검토했습니다.
+최근 연구에서는 닫힌 우주들의 단일 상태(one-state) 성질에 대한 고찰과 함께, 구체적인 홀로그래픽 모델(SYK, CFT)을 통한 아기 우주의 수학적/구조적 존재 증명이 활발히 이루어지고 있습니다.
 - **"It from Bit": The Hartle-Hawking state and quantum mechanics for de Sitter observers** (arXiv:2602.05939)
   - 외부에서 바라본 닫힌 우주들의 공간인 '아기 우주 힐베르트 공간(baby-universe Hilbert space)'과 단일 드지터 우주 내부의 관찰자를 지배하는 벌크(bulk) 힐베르트 공간을 명확히 구분해야 함을 강조했습니다. 아기 우주 힐베르트 공간 자체는 가환 연산자 대수학을 가지는 고전적 확률론의 수학적 재포장일 뿐이며, 내부 관찰자의 양자 역학은 이 고전적 통계로부터 창발(emerge)한다는 존 휠러(John Wheeler)의 "It from Bit" 개념의 구체적 실현을 보여주었습니다.
+- **Baby Universe in a Coupled SYK Model** (arXiv:2605.05291)
+  - SYK 모델의 이중 스케일링 극한(double scaling limit) 내 안장점(saddle point)을 분석하여, 외부 시공간과 아기 우주 간에 진정한 얽힘(entanglement)을 가지는 하틀-호킹(Hartle-Hawking) 상태를 도출했습니다. 이는 닫힌 우주가 자명하지 않은(nontrivial) 힐베르트 공간을 지원할 수 있다는 구체적인 증거를 제공합니다.
+- **Emergent Closed Universes in Symmetric Orbifold CFTs** (arXiv:2606.04575)
+  - 큰 N 대칭 오비폴드 CFT(Symmetric Orbifold CFTs)에서 닫힌 우주 섹터를 식별해냈습니다. S_N 게이지 제약(gauge constraint)을 부과한 후 이 섹터가 1차원이 되어, 웜홀을 포함하는 중력 경로 적분(gravitational path integral) 계산과 일치하는 결과를 재현함으로써 닫힌 우주 발현의 홀로그래픽 타당성을 높였습니다.
+
+- **Magic and Wormholes in the Sachdev-Ye-Kitaev Model** (arXiv:2602.12339v2)
+  - SYK 모델의 열적 상태(thermal state)에서 마조라나 페르미온 끈(Majorana fermion strings)의 통계적 특성을 경로 적분 기법으로 분석한 연구입니다. 특히 혼돈(chaotic) 상태의 SYK 모델에서 미시적 연산자들의 분산이 이중 중력(dual gravity) 관점에서는 질량 입자에 의해 안정화된 '웜홀(wormhole) 기하학'과 직접 연결됨을 증명했습니다. 이는 웜홀, 무작위성(randomness), 그리고 '닫힌 우주(closed universes = 아기 우주)' 간의 관계를 수량화하고, 양자 마법(quantum magic)의 홀로그래픽 이중성을 구체적 수학으로 제시하여 아기 우주 이론(특히 앙상블 홀로그래피 관점)과 매우 강력하게 양립합니다.
 
 ## 향후 모니터링 주안점 (Next Steps for Monitoring)
 - AdS/CFT 대응성 내에서 아기 우주 퍼즐의 수학적 해결 진행 상황.
@@ -39,3 +46,6 @@
 - https://arxiv.org/abs/2604.06118
 - https://arxiv.org/abs/2408.13306
 - https://arxiv.org/abs/2602.05939
+- https://arxiv.org/abs/2605.05291
+- https://arxiv.org/abs/2606.04575
+- https://arxiv.org/abs/2602.12339

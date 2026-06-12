@@ -1,0 +1,26 @@
+# 2026-06-12 Research Updates & Maintenance Plan
+
+## 1. Background Task Maintenance (Scheduler)
+- Fixed an issue where three recurring sweep tasks were dropped due to a discrepancy between their `intervalMs` and default `expiresAt`.
+- Re-registered the tasks and forcibly extended their `expiresAt` by 5 years to ensure consistent weekly background execution.
+
+## 2. Topic Consolidation (Many-Worlds & Relative State)
+- Merged the distinct tracking documents for Hugh Everett's Relative State Formulation (`outputs/everett-many-worlds-quantum-baseline.md`) and the Many-Worlds Interpretation (`outputs/many-worlds-validity-baseline.md`) into a single unified baseline document.
+- Deleted the redundant `everett-many-worlds-quantum-baseline.md`.
+- Replaced the two separate scheduled tasks for these topics with a single unified tracking task (id: `eyihmhbg`).
+
+## 3. Literature Updates (Recent Papers Included)
+Added specific user-requested papers to the baseline tracking documents:
+
+### Baby Universe Theory (`outputs/baby-universe-quantum-cosmology-baseline.md`)
+- `arXiv:2605.05291`: "Baby Universe in a Coupled SYK Model" (Holographic evidence for non-trivial Hilbert space).
+- `arXiv:2606.04575`: "Emergent Closed Universes in Symmetric Orbifold CFTs" (Confirmation of closed universe features in symmetric orbifold CFTs).
+- `arXiv:2602.12339 (v2)`: "Magic and Wormholes in the Sachdev-Ye-Kitaev Model" (Demonstrates the quantitative relationship between randomness, wormholes, and closed universes in the SYK model).
+
+### MWI & Relative State (`outputs/many-worlds-validity-baseline.md`)
+- `arXiv:2603.13974`: "Evidence of Uncollapsed Quantum Amplitudes After Consecutive Measurements" (Experimental test of unitary mechanics using sequential measurements).
+- `arXiv:2403.10895 (v4)`: "A Search for Classical Subsystems in Quantum Worlds" (Algorithm to discover subsystems with pointer states independent of predefined factorizations).
+
+## Status
+- All scheduled tasks (Baby Universe sweep, MWI/Relative State sweep) are active, stable, and set to run weekly.
+- All baseline outputs are up-to-date with the latest 2026 literature.
