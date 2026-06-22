@@ -19,7 +19,30 @@
 - 데이비드 루이스(David Lewis)의 '가능 세계(possible worlds)' 개념을 차용하여 양자 분기 과정에서의 관측자 분열(fission)을 논리적으로 정립하는 등 철학적 일관성 확보 노력도 활발합니다.
 - 거시적 중첩의 분기 메커니즘을 지속적으로 세분화하여, 이론의 물리적, 철학적 일관성을 모두 충족시키려 시도하고 있습니다.
 
-## [2026-06-12] 최근 업데이트 (Recent Update)
+## [2026-06-22] 최근 업데이트 (Recent Update)
+최근 연구(2026년 상반기)들은 휴 에버렛의 상대 상태 공식과 다세계 해석(MWI)의 타당성을 입증하기 위해, 보른 규칙의 수학적 도출 과정과 거시적 중첩의 결어긋남, 그리고 양자 우주론의 휠러-디윗 방정식 적용을 한층 더 정교화하고 있습니다. 이번 주 스윕에서 확인된 주요 논문들은 다음과 같습니다.
+
+### 1. 보른 규칙(Born Rule)의 비확률적 도출 및 가산성(Additivity) 규명
+에버렛 해석의 가장 큰 난제였던 '확률의 기원(보른 규칙)'을 비확률적 공리로부터 도출해내려는 시도들이 크게 진전되었습니다.
+*   **Borns Rule from Reversible Evolution and Irreversible Outcomes** (arXiv:2604.07418)
+    - 가역적 선형 진화(Reversible linear evolution)와 비가역적 기록 생성이라는 두 가지 물리적 과정 간의 호환성을 요구할 때, 추가적인 확률론적 가정 없이도 보른 규칙(2차 측정, Quadratic measure)이 필연적으로 도출됨을 증명했습니다.
+*   **Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule** (arXiv:2603.06211)
+    - 기존 보른 규칙 도출 과정들(Gleason 정리, Deutsch-Wallace 정리 등)을 분석하여, '가산성(Additivity)' 가정이 절대적으로 필수불가결함을 증명했습니다. 이는 MWI 내에서 확률이 형성되는 메커니즘을 보다 명확히 이해하는 데 중요한 통찰을 제공합니다.
+*   **Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework...** (arXiv:2604.27125)
+    - 접근성 이론(Accessibility Theory)의 경계 축소(Boundary Reduction) 기법을 사용하여, 보른 규칙뿐만 아니라 양자 간섭 및 뤼더스(Lüders) 상태 업데이트 규칙이 작용소 형식론 내에서 근본적으로 유도됨을 입증했습니다.
+
+### 2. 거시적 중첩(Macroscopic Superposition)과 벨 부등식(Bell Inequalities)의 에버렛적 해석
+MWI가 비국소성(Non-locality)을 어떻게 우회하거나 재해석하는지에 대한 존재론적 바탕이 강화되었습니다.
+*   **Physical probability in the Everett interpretation and Bell inequalities** (arXiv:2601.12159)
+    - 에버렛 해석 내에서 단일 사건의 확률이 공간적으로 분리된 사건에 의해 수정될 수 없다는 엄밀한 국소적 인과성(LOC) 원리를 정의했습니다. MWI가 '먼 거리 결과의 비유일성(non-uniqueness of remote outcomes)'이라는 허점을 통해 벨 부등식 위반을 원격작용 없이 완벽히 설명할 수 있으며, 이 위반 현상 자체가 다세계 해석의 강력한 증거라고 논증했습니다.
+*   **Approximate Decoherence, Recoherence and Records in Isolated Quantum Systems** (arXiv:2601.19703)
+    - 고립된 양자 시스템에서 완벽한 결어긋남이 아닌 '근사적 결어긋남(approximate decoherence)'이 일어날 때, 거시적 기록이 어떻게 보존되거나 재결맞음(recoherence)되는지 분석하여 거시적 중첩 상태의 세계 분기(Branching)가 안정적으로 유지되는 조건을 정량화했습니다.
+
+### 3. 양자 우주론 확장: 휠러-디윗 방정식과 자연 상수의 기원
+*   **Many Worlds in Theory Space: A Quantum Origin for the Constants of Nature** (arXiv:2512.03251)
+    - 우주 전체의 상태를 기술하는 휠러-디윗 메커니즘과 상대 상태 공식을 '이론 공간(Theory Space)' 차원으로 확장했습니다. 이를 통해 우리가 관측하는 미세 조정된 자연 상수(Constants of Nature)들이 양자역학적 얽힘과 상태 분기를 거쳐 MWI 내에서 필연적으로 나타나는 현상임을 증명하려는 혁신적 모델을 제시했습니다.
+
+## [2026-06-12] 이전 업데이트 (Previous Update)
 최신(2026년 상반기) 논문들은 에버렛 다세계 해석의 일관성과 타당성을 설명하기 위한 구체적인 장난감 모델, 빅뱅 특이점 해결책은 물론이고, 연속 측정 및 텐서 곱 구조(Tensor product structure) 차원에서의 실험적/수학적 지지를 새롭게 제시하고 있습니다.
 
 - **The Quantum Many-Worlds Interpretation, Simply Told** (arXiv:2602.09272)

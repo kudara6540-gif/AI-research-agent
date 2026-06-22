@@ -7,12 +7,14 @@
       "kind": "recurring",
       "enabled": true,
       "createdAt": 1781259124032,
-      "nextRunAt": 1781864054550,
+      "nextRunAt": 1782468854550,
       "intervalMs": 604800000,
       "expiresAt": 1938939562848,
       "jitterMs": 130518,
-      "runCount": 0,
-      "pending": false
+      "runCount": 1,
+      "pending": false,
+      "lastRunAt": 1782093090022,
+      "lastStatus": "success"
     },
     {
       "id": "eyihmhbg",
@@ -20,12 +22,14 @@
       "kind": "recurring",
       "enabled": true,
       "createdAt": 1781259537780,
-      "nextRunAt": 1781864818571,
+      "nextRunAt": 1782469618571,
       "intervalMs": 604800000,
       "expiresAt": 1938939562848,
       "jitterMs": 480791,
-      "runCount": 0,
-      "pending": false
+      "runCount": 1,
+      "pending": false,
+      "lastRunAt": 1782093288622,
+      "lastStatus": "success"
     }
   ]
 }

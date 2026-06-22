@@ -21,7 +21,19 @@
 - **Can Baby Universe Absorption Explain Dark Energy?** (arXiv:2408.13306)
   - 우리 우주가 지속적으로 아기 우주들을 흡수하거나 병합함으로써 가속 팽창(팬텀 방정식 상태와 유사한 암흑 에너지 효과)을 일으킨다는 가설을 검증합니다. 이는 아기 우주 이론을 추상적 수학을 넘어 관측 가능한 우주론적 현상과 연결하려는 중요한 시도입니다.
 
-## [2026-06-12] 최근 업데이트 (Recent Update)
+## [2026-06-22] 최근 업데이트 (Recent Update)
+최근(2026년 5~6월) 연구에서는 아기 우주 이론이 단순한 이론적 모형을 넘어, 우주론적 관측(암흑 에너지 상태 방정식)과 직접 연결되며, McNamara와 Vafa의 '아기 우주 가설(Baby Universe Hypothesis)'을 뒷받침하는 힐베르트 공간의 차원에 대한 수학적 증명이 발표되어 타당성이 크게 향상되었습니다.
+
+- **Can a late-time cosmological model based on baby universe absorption explain the z-variation of w?** (arXiv:2605.15045)
+  - 기존의 '아기 우주 흡수 가설'을 발전시켜, 아기 우주 병합이 단순히 가속 팽창을 일으키는 것을 넘어 암흑 에너지 상태 방정식 파라미터 $w$의 적색편이($z$)에 따른 변화를 설명할 수 있음을 입증했습니다. 특히 $z$가 클 때 $w(z) < -1$이 됨을 보여, 최근 천체물리학계의 관측 데이터와 교차 검증할 수 있는 우주론적 관측 지표를 제공합니다.
+- **Boundary conditions and Hilbert spaces in no-roll quantum cosmology** (arXiv:2606.17163)
+  - 느린 구름(no-roll) 양자 우주론 모델에서 퍼텐셜 에너지가 고정될 경우, 휠러-디윗(Wheeler-DeWitt) 방정식의 물리적 힐베르트 공간이 정확히 1차원(1D)이 됨을 증명했습니다. 이는 닫힌 우주(아기 우주)의 상태 공간이 단일 차원이라는 가설을 구체적인 미니슈퍼스페이스 양자 우주론 모델로 확증한 결과입니다.
+- **Topology sums, sectorwise holography, and horizon normalcy** (arXiv:2605.20294)
+  - 아기 우주의 차원이 1차원 이상(nontrivial)일 경우, 홀로그래피 정보 원리(HoI)가 전체 위상이 합산된 힐베르트 공간이 아닌 각 $\alpha$-섹터별로 세분화되어 적용되어야 함을 논증했습니다. 이는 블랙홀 지평선의 방화벽(AMPS) 문제를 해결하는 데 있어 글로벌 섹터 데이터의 역할을 명확히 한 중요한 이론적 진전입니다.
+- **From Baby Universes to Narain Moduli: Topological Boundary Averaging in SymTFTs** (arXiv:2605.06653)
+  - 대칭 위상장론(SymTFT) 관점에서 저차원 홀로그래피의 앙상블 평균을 해석했습니다. 아기 우주를 임의의 국소 동역학이 아닌 '위상학적 경계 조건에 대한 평균'으로 재정의함으로써, 제3양자화와 앙상블 홀로그래피 프레임워크의 수학적 구조를 더욱 엄밀하게 다듬었습니다.
+
+## [2026-06-12] 이전 업데이트 (Previous Update)
 최근 연구에서는 닫힌 우주들의 단일 상태(one-state) 성질에 대한 고찰과 함께, 구체적인 홀로그래픽 모델(SYK, CFT)을 통한 아기 우주의 수학적/구조적 존재 증명이 활발히 이루어지고 있습니다.
 - **"It from Bit": The Hartle-Hawking state and quantum mechanics for de Sitter observers** (arXiv:2602.05939)
   - 외부에서 바라본 닫힌 우주들의 공간인 '아기 우주 힐베르트 공간(baby-universe Hilbert space)'과 단일 드지터 우주 내부의 관찰자를 지배하는 벌크(bulk) 힐베르트 공간을 명확히 구분해야 함을 강조했습니다. 아기 우주 힐베르트 공간 자체는 가환 연산자 대수학을 가지는 고전적 확률론의 수학적 재포장일 뿐이며, 내부 관찰자의 양자 역학은 이 고전적 통계로부터 창발(emerge)한다는 존 휠러(John Wheeler)의 "It from Bit" 개념의 구체적 실현을 보여주었습니다.
