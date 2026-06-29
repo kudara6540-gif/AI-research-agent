@@ -21,7 +21,26 @@
 - **Can Baby Universe Absorption Explain Dark Energy?** (arXiv:2408.13306)
   - 우리 우주가 지속적으로 아기 우주들을 흡수하거나 병합함으로써 가속 팽창(팬텀 방정식 상태와 유사한 암흑 에너지 효과)을 일으킨다는 가설을 검증합니다. 이는 아기 우주 이론을 추상적 수학을 넘어 관측 가능한 우주론적 현상과 연결하려는 중요한 시도입니다.
 
-## [2026-06-22] 최근 업데이트 (Recent Update)
+## [2026-06-29] 최근 업데이트 (Recent Update)
+이번 주 스윕(2026년 6월 4주차)에서는 블랙홀에서 기원하는 아기 우주의 무한한 팽창에 대한 기하학적 장애물(Obstruction)이 수학적으로 증명되어 기존 아기 우주-우주론 모델의 타당성에 새로운 제약이 가해졌습니다. 반면, 이론적 정교함 측면에서는 정준 양자 중력 모델 내에서 아기 우주 생성(위상 변화)을 통해 블랙홀 방화벽(firewall) 역설을 해결하는 등 긍정적이고 고도화된 연구가 보고되었습니다.
+
+### 1. 관측적 타당성 및 한계: 정규 블랙홀 기원 아기 우주의 팽창 제약
+* **Obstructions to Minimal Regular Black Hole Cosmologies** (arXiv:2606.25023)
+  - **내용**: 정적이고 점근적으로 평탄한 정규 블랙홀(Regular black hole) 내부에서 생성되는 FRW '딸 우주(아기 우주)'에 대한 수학적 한계를 도출했습니다. 유도된 밀도와 곡률 항의 스케일링을 분석하여, 최소한의 닫힌 아기 우주는 무한히 팽창하지 못하고 '유계(Bounded) 상태'에 머물게 됨을 증명했습니다.
+  - **의의**: 블랙홀이 팽창하는 새로운 아기 우주로 진화한다는 대중적인 가설에 엄격한 제약을 가합니다. 우주론적 관측에 부합하는 무한히 팽창하는 아기 우주가 성립하려면 비표준적인 물질 성분이나 수정된 점근성 등의 추가적인 구조가 반드시 필요함을 밝혔습니다.
+
+### 2. 제3양자화 및 정교함: 위상 변화를 통한 블랙홀 역설 해결
+* **Smooth horizons from topology change in canonical quantum gravity** (arXiv:2606.06404)
+  - **내용**: JT 중력의 정준 양자화(canonical quantization) 과정에 '위상 변화(topology change, 아기 우주 생성 상호작용)'를 통합하여 방화벽 역설(Firewall paradox)의 해법을 제시했습니다. 단일 우주 내부 섹터가 아기 우주와의 결합(pair of pants interaction)을 통해 연결된 섹터로 진화합니다.
+  - **의의**: 위상 변화(제3양자화적 접근)가 단순히 수학적 도구가 아니라, 페이지 시간(Page time) 이후 방화벽을 소멸시키고 부드러운 지평선을 복원하는 핵심 물리적 기제로 작동함을 엄밀하게 증명하여 이론의 정교함을 크게 높였습니다.
+
+### 3. 홀로그래피 검증: 작용소 대수와 이중 스케일링 SYK 모델
+* **Spacetime from Operator Algebras** (arXiv:2606.10924)
+  - **내용**: 제3타입 폰 노이만 대수에 무작위 행렬 이론(RMT)과 앙상블 평균을 적용하여 미시상태와 시공간이 창발하는 과정을 증명했습니다.
+* **q-Askey Deformations of Double-Scaled SYK** (arXiv:2605.13956v2)
+  - **내용**: 이중 스케일링된 SYK(DSSYK) 모델의 변형을 통해 작용소 대수를 분석하고, 벌크 시공간 내에서 웜홀 및 아기 우주의 출현 현상과의 연결 고리를 구체적으로 수식화했습니다.
+
+## [2026-06-22] 이전 업데이트 (Previous Update)
 최근(2026년 5~6월) 연구에서는 아기 우주 이론이 단순한 이론적 모형을 넘어, 우주론적 관측(암흑 에너지 상태 방정식)과 직접 연결되며, McNamara와 Vafa의 '아기 우주 가설(Baby Universe Hypothesis)'을 뒷받침하는 힐베르트 공간의 차원에 대한 수학적 증명이 발표되어 타당성이 크게 향상되었습니다.
 
 - **Can a late-time cosmological model based on baby universe absorption explain the z-variation of w?** (arXiv:2605.15045)
@@ -60,4 +79,7 @@
 - https://arxiv.org/abs/2602.05939
 - https://arxiv.org/abs/2605.05291
 - https://arxiv.org/abs/2606.04575
-- https://arxiv.org/abs/2602.12339
+- https://arxiv.org/abs/2602.12339- https://arxiv.org/abs/2606.25023
+- https://arxiv.org/abs/2606.06404
+- https://arxiv.org/abs/2606.10924
+- https://arxiv.org/abs/2605.13956
