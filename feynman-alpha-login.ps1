@@ -29,12 +29,12 @@ function Clear-CallbackPort {
 }
 
 $port = 9876
-$hostName = "127.0.0.1"
+$hostName = "localhost"
 $redirectUri = "http://${hostName}:${port}/callback"
 
 Clear-CallbackPort
 
-$env:ALPHA_CALLBACK_HOST = $hostName
+$env:ALPHA_CALLBACK_HOST = "::"
 $env:ALPHA_CALLBACK_PORT = "$port"
 $env:ALPHA_REDIRECT_URI = $redirectUri
 
