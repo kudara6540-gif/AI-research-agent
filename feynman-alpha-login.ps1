@@ -46,5 +46,6 @@ if (-not $NoLogout) {
 }
 
 Write-Host "Starting alphaXiv login..."
-Write-Host "If the browser does not redirect back automatically, copy the full final URL from the browser address bar after sign-in. It should include ?code=..."
+Write-Host "If the browser does not redirect back automatically, open the auth URL manually and complete sign-in."
+Write-Host "After the browser finishes, paste the full final URL from the address bar. It should include ?code=..."
 & (Get-FeynmanExecutable) alpha login
